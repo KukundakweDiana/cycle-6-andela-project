@@ -1,2 +1,3 @@
 # cycle-6-andela-project
-this project will be a fully functional project with both front end and back end development. it will be developed over a period of six weeks with weekly updates.
+
+I hope i will be able to learn as much as i can while i work on this project. My future as a developer depends on how much i can accomplish at this point.
